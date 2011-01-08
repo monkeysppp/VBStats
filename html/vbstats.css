@@ -1,0 +1,45 @@
+div.rotation_image
+{
+	float: left;
+	width: 200px;
+	display: inline;
+}
+	
+div.rotation_report
+{
+	display: inline;
+}
+
+table.rotation_slip
+{
+	width: 150px;
+	height: 150px;
+	border: 1px solid black;
+	border-spacing: 0px;
+	text-align: center;
+}
+
+td.rotation_slip_front_row
+{
+	border-bottom: 1px solid black;
+}
+
+table.rotation_report
+{
+	border: 0px;
+	border-collapse:collapse;
+	border-spacing: 0px;
+	padding: 3px;
+}
+
+table.rotation_report td.blank
+{
+	border: 0px;
+}
+
+table.rotation_report td
+{
+	border: 1px solid black;
+	padding: 2px;
+}
+
